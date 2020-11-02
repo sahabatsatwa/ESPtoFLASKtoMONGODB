@@ -3,8 +3,8 @@
 #include <Adafruit_MLX90614.h>
 
 
-const char * ssid = "SahabatSatwa";
-const char * password = "Amd2core";
+const char * ssid = "SSID";
+const char * password = "PASS";
 const String ip_address = "localhost";
 const int interval = 3000;
 
